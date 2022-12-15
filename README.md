@@ -21,6 +21,13 @@ http://suxieban.luhui.net
 http://tuyaban.netlify.app
 
 
+http://www.luhui.net/cn/tuya
+
+
+鲁虺涂鸦式速写板离线版
+
+https://tuya.luhui.net/luhuituya.apk
+
 Deploy status badge
 
 

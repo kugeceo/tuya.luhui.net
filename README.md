@@ -11,3 +11,6 @@ http://suxie.luhui.net
 
 
 http://suxieban.luhui.net
+
+
+http://tuyaban.netlify.app

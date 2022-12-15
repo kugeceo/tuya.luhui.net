@@ -23,7 +23,7 @@ http://tuyaban.netlify.app
 
 http://www.luhui.net/cn/tuya
 
-[(http://tuya.luhui.net/tuya20221215164618.jpg)]
+![(http://tuya.luhui.net/tuya20221215164618.jpg)]
 
 鲁虺涂鸦式速写板离线版
 

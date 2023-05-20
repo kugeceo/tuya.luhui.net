@@ -24,7 +24,7 @@ http://tuyaban.netlify.app
 http://www.luhui.net/cn/tuya
 
 
-![鲁虺涂鸦式速写板展示](http://tuya.luhui.net/tuya20221215164618.jpg)
+![鲁虺涂鸦式速写板展示](http://tuya.guanfu.org/tuya20221215164618.jpg)
 
 
 
@@ -40,6 +40,13 @@ This image automatically updates to reflect the current state of your latest pro
 
 Deploy status badge
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6d70043e-5abc-4dc4-851e-0959d45ef507/deploy-status)](https://app.netlify.com/sites/tuyaban/deploys)
+
+http://tuya.guanfu.org/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0728d466-4484-40f0-a8de-8cc503eef15b/deploy-status)](https://app.netlify.com/sites/tuyaban/deploys)
+
+
+
 
 Learn more about status badges in the docs
 
